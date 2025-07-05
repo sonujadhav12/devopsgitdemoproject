@@ -1,5 +1,5 @@
 "my name is swara" 
 "my name is swara jadhav"
-"my name is sonali"
-"xyz.txt"
+my name is sonali
+xyz.txt
 
